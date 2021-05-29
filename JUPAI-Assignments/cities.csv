@@ -1,0 +1,10 @@
+name,country_code,population,surface_area,continent
+'Tokyo',123,37977000,44689,'Asia'
+'Cairo',456,20,658894,'Africa'
+'Alexandria',456,200,87566,'Africa'
+'Yokohoma',123,3748781,154887,'Asia'
+'Doha',888,1312947,7894,'Asia'
+'Al Mahallah al Kubra',456,5,8452,'Africa'
+'Matsuyama',123,509139,87416,'Asia'
+'Al Khawr',888,450555,9874,'Asia'
+'rabat',999,100000000,97895,'Africa'
